@@ -65,7 +65,7 @@ interface.launch()
 ```
 
 ## OUTPUT:
-<img width="1825" height="856" alt="image" src="https://github.com/user-attachments/assets/5f185b63-8180-409b-a5b7-a751cbb08af4" />
+<img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/b4ef1a84-a01e-4338-a2ab-2a5841a99ef0" />
 
 
 ## RESULT:
